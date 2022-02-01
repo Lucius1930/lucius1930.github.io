@@ -1,19 +1,13 @@
-## Welcome to GitHub Pages
+## Приветсвую тебя на моём сайте, друг!
 
-You can use the [editor on GitHub](https://github.com/Lucius1930/lucius1930.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Тут ты найдёшь мои соц-сети, где сможешь со мной поговорить)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Мои соц-сети
+Вы можете связаться со мной в телеграмме. Я телеге уделяю часть своего времени, так как там я работаю и имею команду модерации.
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Тг акки:
+# Основа: @lucius1972
+## Второй акк: @lucius1930
 
 - Bulleted
 - List
@@ -23,7 +17,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[file:///C:/Users/gamer/Downloads/Gathurst_railway_viaduct_-_geograph.org.uk_-_1460073.jpg](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
