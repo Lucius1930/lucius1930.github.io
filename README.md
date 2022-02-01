@@ -17,7 +17,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[file:///C:/Users/gamer/Downloads/Gathurst_railway_viaduct_-_geograph.org.uk_-_1460073.jpg](url) and ![Image](src)
+[linkk](url) and ![file:///C:/Users/gamer/Downloads/Gathurst_railway_viaduct_-_geograph.org.uk_-_1460073.jpg](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
